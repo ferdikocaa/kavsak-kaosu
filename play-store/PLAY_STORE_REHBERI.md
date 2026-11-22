@@ -56,7 +56,7 @@ Reflekslerine güveniyorsan hemen indir ve kavşağın kontrolünü ele al!
 
 1. **Veri Güvenliği (Data Safety):**
    - *"Uygulamanız kullanıcı verilerinin herhangi birini topluyor veya paylaşıyor mu?"* → **Hayır**
-   - Gizlilik Politikası URL'si: `play-store/privacy-policy.html` dosyasını GitHub Pages, Vercel veya kendi web sitene yükleyip linkini yapıştır.
+   - Gizlilik Politikası URL'si: `https://ferdikocaa.github.io/kavsak-kaosu/privacy-policy.html` (GitHub Pages üzerinde yayında)
 2. **İçerik Derecelendirmesi (Content Rating — IARC):**
    - Kategori: **Oyun (Arcade / Aksiyon)**
    - Şiddet, kan, kumar, uygunsuz dil, kullanıcılar arası sohbet: **Hayır** → Otomatik olarak **PEGI 3 / Herkes (Everyone)** alır.
